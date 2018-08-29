@@ -1,0 +1,74 @@
+/* primary color #f96332 */
+
+/*--------
+REUSE
+--------*/
+.section h3{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 400;
+}
+
+ul li a{
+    font-weight: 700;
+}
+
+/*----LOGO-----*/
+
+.logo-new{
+    border: 2px solid #fff;
+    font-weight: 700;
+    padding:0px 10px;  
+    
+}
+
+.logo-header{ 
+    border: 3px solid #fff;
+    padding: 0px;
+    display: inline-block;
+}
+
+/*----SECTIONS----*/
+
+.section-basic{
+    background-color: #f8f8f8;
+}
+
+.section-basic .card-deck p{
+    color: #fff;
+    font-weight: 400;
+}
+
+.section-team {
+    font-weight: 400;
+    background-image:linear-gradient(rgba(249, 99, 50, 0.8),rgba(0, 0, 0, 0.8)),url(img/bg1.jpg);
+    background-position: center;
+    background-size: cover;
+    color:#fff;
+}
+
+.section-team p{
+    color:#f8f8f8;
+}
+
+.section-team img{
+    width: 100px;
+    height: 100px;
+}
+
+.section-favorites {
+    padding:90px 10px;
+}
+
+.section-subscribe{
+    background-color: #f8f8f8;
+    text-align: center
+}
+
+
+
+
+
+
+
+
